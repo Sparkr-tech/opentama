@@ -24,7 +24,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1525</field>
+        <field name="LCSC">C1525</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -35,7 +35,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1525</field>
+        <field name="LCSC">C1525</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -46,7 +46,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1525</field>
+        <field name="LCSC">C1525</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -57,7 +57,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1525</field>
+        <field name="LCSC">C1525</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -68,7 +68,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C15195</field>
+        <field name="LCSC">C15195</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -79,7 +79,7 @@
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C15849</field>
+        <field name="LCSC">C15849</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -90,7 +90,7 @@
       <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C26443</field>
+        <field name="LCSC">C26443</field>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -101,7 +101,7 @@
       <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
       <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141133.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C465977</field>
+        <field name="LCSC">C465977</field>
       </fields>
       <libsource lib="MCU_ST_STM32L0" part="STM32L072CBTx" description="ARM Cortex-M0+ MCU, 128KB flash, 20KB RAM, 32MHz, 1.65-3.6V, 37 GPIO, LQFP-48"/>
       <sheetpath names="/" tstamps="/"/>
@@ -112,7 +112,7 @@
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C19702</field>
+        <field name="LCSC">C19702</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -123,7 +123,7 @@
       <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1810171817_Seiko-Epson-Q13FC1350000400_C32346.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C32346</field>
+        <field name="LCSC">C32346</field>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <sheetpath names="/" tstamps="/"/>
@@ -134,7 +134,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1547</field>
+        <field name="LCSC">C1547</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -145,7 +145,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1547</field>
+        <field name="LCSC">C1547</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -156,7 +156,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25744</field>
+        <field name="LCSC">C25744</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -167,7 +167,7 @@
       <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1810121628_C&amp;K-PTS645SM43SMTR92LFS_C221880.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C221880</field>
+        <field name="LCSC">C221880</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <sheetpath names="/" tstamps="/"/>
@@ -178,7 +178,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C23138</field>
+        <field name="LCSC">C23138</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -189,7 +189,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C21190</field>
+        <field name="LCSC">C21190</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -200,7 +200,7 @@
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1848</field>
+        <field name="LCSC">C1848</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -211,7 +211,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C22975</field>
+        <field name="LCSC">C22975</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -230,7 +230,7 @@
       <footprint>Package_TO_SOT_SMD:TSOT-23-5</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/405442xf.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C462648</field>
+        <field name="LCSC">C462648</field>
       </fields>
       <libsource lib="Battery_Management" part="LTC4054ES5-4.2" description="Constant-current/constant-voltage linear charger for single cell lithium-ion batteries with 2.9V Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celcius, TSOT-23-5"/>
       <sheetpath names="/" tstamps="/"/>
@@ -241,7 +241,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25197</field>
+        <field name="LCSC">C25197</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -252,7 +252,7 @@
       <footprint>OpenTama:LED_RGB_TC5050</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2009231707_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C784540</field>
+        <field name="LCSC">C784540</field>
       </fields>
       <libsource lib="Device" part="LED_RGB" description="RGB LED, 6 pin package"/>
       <sheetpath names="/" tstamps="/"/>
@@ -263,7 +263,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C23138</field>
+        <field name="LCSC">C23138</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -274,7 +274,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25104</field>
+        <field name="LCSC">C25104</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -285,7 +285,7 @@
       <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1810121628_C&amp;K-PTS645SM43SMTR92LFS_C221880.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C221880</field>
+        <field name="LCSC">C221880</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <sheetpath names="/" tstamps="/"/>
@@ -296,7 +296,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25767</field>
+        <field name="LCSC">C25767</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -307,7 +307,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25104</field>
+        <field name="LCSC">C25104</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -318,7 +318,7 @@
       <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1810121628_C&amp;K-PTS645SM43SMTR92LFS_C221880.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C221880</field>
+        <field name="LCSC">C221880</field>
       </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <sheetpath names="/" tstamps="/"/>
@@ -329,7 +329,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25767</field>
+        <field name="LCSC">C25767</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -340,7 +340,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25767</field>
+        <field name="LCSC">C25767</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -359,7 +359,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C11702</field>
+        <field name="LCSC">C11702</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -370,7 +370,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25076</field>
+        <field name="LCSC">C25076</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -397,7 +397,7 @@
       <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
       <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
       <fields>
-        <field name="JLCPCB">C165948</field>
+        <field name="LCSC">C165948</field>
       </fields>
       <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -408,7 +408,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25905</field>
+        <field name="LCSC">C25905</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -419,7 +419,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25905</field>
+        <field name="LCSC">C25905</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -430,7 +430,7 @@
       <footprint>Buzzer_Beeper:Buzzer_CUI_CPT-9019S-SMT</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_FUET-FUET-9018_C391035.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C391035</field>
+        <field name="LCSC">C391035</field>
       </fields>
       <libsource lib="Device" part="Speaker_Crystal" description="Crystal speaker/transducer"/>
       <sheetpath names="/" tstamps="/"/>
@@ -441,7 +441,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25744</field>
+        <field name="LCSC">C25744</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -452,7 +452,7 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</datasheet>
       <fields>
-        <field name="JLCPCB">C347484</field>
+        <field name="LCSC">C347484</field>
       </fields>
       <libsource lib="Transistor_FET" part="BSS138" description="50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"/>
       <sheetpath names="/" tstamps="/"/>
@@ -463,7 +463,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1531</field>
+        <field name="LCSC">C1531</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -474,7 +474,7 @@
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1531</field>
+        <field name="LCSC">C1531</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -485,7 +485,7 @@
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C1615</field>
+        <field name="LCSC">C1615</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -503,7 +503,7 @@
       <footprint>OpenTama:Hirose_FH34SRJ-14S-0.5SH_1x14-1MP_P0.50mm_Horizontal_Mirror</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1811071030_HRS-Hirose-FH34SRJ-14S-0.5SH-50_C324724.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C324724</field>
+        <field name="LCSC">C324724</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
@@ -514,7 +514,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25104</field>
+        <field name="LCSC">C25104</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -533,7 +533,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C21189</field>
+        <field name="LCSC">C21189</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -544,7 +544,7 @@
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C13585</field>
+        <field name="LCSC">C13585</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -555,7 +555,7 @@
       <footprint>Inductor_SMD:L_Sunlord_MWSA0518_5.4x5.2mm</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Sunlord-MWSA0503S-100MT_C408412.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C408412</field>
+        <field name="LCSC">C408412</field>
       </fields>
       <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -566,7 +566,7 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tps62201.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C9051</field>
+        <field name="LCSC">C9051</field>
       </fields>
       <libsource lib="Regulator_Switching" part="TPS62203DBV" description="300mA High-Efficiency Step-Down DC-DC Converter, fixed 3.3V output voltage, 2.5-6V input voltage, SOT-23-5"/>
       <sheetpath names="/" tstamps="/"/>
@@ -577,7 +577,7 @@
       <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C29823</field>
+        <field name="LCSC">C29823</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -588,7 +588,7 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C21189</field>
+        <field name="LCSC">C21189</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -599,7 +599,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25741</field>
+        <field name="LCSC">C25741</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -610,7 +610,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25741</field>
+        <field name="LCSC">C25741</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -621,7 +621,7 @@
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C14663</field>
+        <field name="LCSC">C14663</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -632,7 +632,7 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C2827654</field>
+        <field name="LCSC">C2827654</field>
       </fields>
       <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
       <sheetpath names="/" tstamps="/"/>
@@ -643,7 +643,7 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</datasheet>
       <fields>
-        <field name="JLCPCB">C347484</field>
+        <field name="LCSC">C347484</field>
       </fields>
       <libsource lib="Transistor_FET" part="BSS138" description="50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"/>
       <sheetpath names="/" tstamps="/"/>
@@ -654,7 +654,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25741</field>
+        <field name="LCSC">C25741</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -665,7 +665,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25765</field>
+        <field name="LCSC">C25765</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -676,7 +676,7 @@
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="JLCPCB">C25765</field>
+        <field name="LCSC">C25765</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -687,7 +687,7 @@
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>http://assets.nexperia.com/documents/data-sheet/BSS84.pdf</datasheet>
       <fields>
-        <field name="JLCPCB">C8492</field>
+        <field name="LCSC">C8492</field>
       </fields>
       <libsource lib="Transistor_FET" part="BSS84" description="-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23"/>
       <sheetpath names="/" tstamps="/"/>
